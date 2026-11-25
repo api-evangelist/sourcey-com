@@ -72,10 +72,6 @@ Sourcey helps teams document software they build and evaluate software they use.
 
 Everything profiled for Sourcey is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sourcey-com/](https://apis.io/providers/sourcey-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (1)
-
-- [Cheese Store Demo API](https://apis.io/apis/sourcey-com/cheese-store-demo-api/) — A fictional demo API used in Sourcey's documentation to showcase OpenAPI rendering. Not an actual product API.
-
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
@@ -102,7 +98,6 @@ Linked-data contexts for the provider's vocabulary.
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Sourcey Openapi Overlay](https://apis.io/overlays/sourcey-com/sourcey-com-openapi-overlay/)
 
 #### Governance rules (1)
 
